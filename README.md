@@ -1,5 +1,5 @@
-# No Look Weather
-Need to know the weather but don't have time to look outside? This skill is for you :)
+# APL Sound Board
+Want to play a sound for your Zoom meeting? :)
 
 _This sample skill demonstrates how to use APL for Audio in an Alexa response. All responses reference [linked documents](https://developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apla-interface.html#renderdocument-directive)._
 
